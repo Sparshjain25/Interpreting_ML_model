@@ -7,12 +7,11 @@ Implement and apply multiple interpretability techniques
 Visualize and compare the results of different methods
 Provide insights into the model's decision-making process
 ## Technologies Used
-Python
-PyTorch
-torchvision
-matplotlib
+Python,
+PyTorch,
+torchvision,
+matplotlib,
 numpy
-tqdm
 ## Model Architecture
 The CNN model used in this project consists of:
 Two convolutional layers
