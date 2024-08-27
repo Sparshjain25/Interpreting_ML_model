@@ -14,9 +14,10 @@ matplotlib,
 numpy
 ## Model Architecture
 The CNN model used in this project consists of:
-Two convolutional layers
-Two max pooling layers
-Two fully connected layers
+1. Two convolutional layers
+2. Two max pooling layers
+3. Two fully connected layers
+   
 The model achieves an accuracy of approximately 98% on the MNIST test set.
 ## Interpretability Techniques
 #### GradCAM (Gradient-weighted Class Activation Mapping)
